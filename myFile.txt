@@ -2,10 +2,7 @@ A
 B
 c
 c
-c
 d
 d
 d
-d
-d
-
+FFF
